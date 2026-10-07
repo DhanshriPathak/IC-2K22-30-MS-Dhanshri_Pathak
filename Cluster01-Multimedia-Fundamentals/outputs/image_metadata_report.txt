@@ -1,0 +1,49 @@
+============================================================
+           IMAGE METADATA ANALYSER REPORT
+============================================================
+
+FILE INFORMATION
+------------------------------------------------------------
+File Name       : sample.jpg
+File Format     : JPEG
+File Size       : 1142266 bytes
+File Size       : 1115.49 KB
+File Size       : 1.09 MB
+
+IMAGE INFORMATION
+------------------------------------------------------------
+Image Mode      : RGB
+Resolution      : 1500 x 982
+Width           : 1500
+Height          : 982
+Total Pixels    : 1473000
+
+COLOUR DEPTH
+------------------------------------------------------------
+Colour Depth    : 24 bits per pixel
+
+METADATA
+------------------------------------------------------------
+EXIF Metadata   : Available
+
+ImageWidth          : 8833
+ImageLength         : 4326
+BitsPerSample       : (8, 8, 8)
+Compression         : 1
+PhotometricInterpretation: 2
+ResolutionUnit      : 2
+ExifOffset          : 352
+Make                : NIKON CORPORATION
+Model               : NIKON D700
+Software            : Adobe Photoshop 25.7 (Macintosh)
+Orientation         : 1
+DateTime            : 2024:05:29 18:11:57
+YResolution         : 72.0
+SamplesPerPixel     : 3
+XResolution         : 72.0
+Artist              : PHOTOGRAPH BY AMIT PASRICHA
+PlanarConfiguration : 1
+
+============================================================
+              ANALYSIS COMPLETED
+============================================================
